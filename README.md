@@ -1,10 +1,6 @@
 # BCX Opportunity Win vs Loss Insights
 
-<div style="position: relative; width: 600px; height: 400px; overflow: hidden; margin: 0; padding: 0; box-sizing: border-box;">
-    <img src="https://github.com/EdnaM06/BCX-Opportunity-Win-Vs-Loss-Insights/raw/6b4af854078f8121e05ad6a6e110265524cf9a4d/sitemgr_photo_93-removebg-preview.png" style="position: absolute; top: 0; left: 0; width: 300px; height: 200px; margin: 0; box-sizing: border-box;">
-    <img src="https://github.com/EdnaM06/BCX-Opportunity-Win-Vs-Loss-Insights/raw/6b4af854078f8121e05ad6a6e110265524cf9a4d/sitemgr_photo_93-removebg-preview%20(5).png" style="position: absolute; top: 0; left: 300px; width: 300px; height: 200px; margin: 0; box-sizing: border-box;">
-    <img src="https://github.com/EdnaM06/BCX-Opportunity-Win-Vs-Loss-Insights/raw/6b4af854078f8121e05ad6a6e110265524cf9a4d/sitemgr_photo_93-removebg-preview%20(4).png" style="position: absolute; top: 200px; left: 0; width: 300px; height: 200px; margin: 0; box-sizing: border-box;">
-</div>
+![BCX Banner](https://github.com/EdnaM06/BCX-Opportunity-Win-Vs-Loss-Insights/raw/0abbadbb5d90d8e6ac09714d0a77dc331823e9ca/Banner.png)
 
 ## Project Overview
 
