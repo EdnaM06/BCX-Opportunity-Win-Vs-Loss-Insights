@@ -29,6 +29,9 @@ Engaged in a data-driven project focusing on 'Opportunities Win vs. Loss Insight
 - Views of the same per product.
 - Age analysis if possible.
 
+![BCX project]( https://github.com/EdnaM06/BCX-Opportunity-Win-Vs-Loss-Insights/blob/82ce6d3491ab6397823b1cbd07f715b79167ee33/image.png)
+
+
 ## Team Recognition
 
 Our success in achieving the goals of the BCX Opportunity Win vs. Loss Insights project is attributed to the dedicated efforts of the project team. Each team member played a crucial role, contributing their unique skills and expertise. We extend our sincere appreciation to:
